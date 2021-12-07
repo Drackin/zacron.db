@@ -1,0 +1,62 @@
+{
+  "_from": "zacron.db@latest",
+  "_id": "zacron.db@5.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-W60lMF3j5m/bmXtB9LqV3P/330IIZ2osxPhJh0aDHvUFrZ6cmdv1fiRB0HJLEq79nHnzmD5rqB6byNvb1bUTvA==",
+  "_location": "/zacron.db",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "zacron.db@latest",
+    "name": "zacron.db",
+    "escapedName": "zacron.db",
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/zacron.db/-/zacron.db-4.1.2.tgz",
+  "_shasum": "07a4564bee74a49d0f7df124f7fb8f9fc52cb18d",
+  "_spec": "zacron.db@latest",
+  "_where": "C:\\Users\\Admin\\Desktop\\js",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/EzioAuditore-1/zacron.db/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "graceful-fs": "^4.2.6",
+    "node-fetch": "^3.1.0"
+  },
+  "deprecated": false,
+  "description": "A JSON Database Module | JSON Veritabanı Modülü",
+  "homepage": "https://github.com/EzioAuditore-1/zacron.db#readme",
+  "keywords": [
+    "database",
+    "db",
+    "json",
+    "fs",
+    "module",
+    "quick.db",
+    "mongoose",
+    "discord.js",
+    "zacron",
+    "zacron.db"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "zacron.db",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzioAuditore-1/zacron.db.git"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "version": "5.1.2"
+}
